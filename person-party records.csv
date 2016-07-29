@@ -1,6 +1,6 @@
-address,first_name,gender,household_relation,last_name,marital_status,middle_name,national_id,residence_area,telephone_number
-,Alice,1,1,Tya,1,Akeno,3454364,0,0711516003
-,Clement,2,1,Peter,1,Echoto,6785678,0,0711016005
-,James,2,1,Mucheni,1,,686786,0,0721516607
-,David,2,0,Ewoton,2,Enyaman,7686587,0,0710516044
-,Peter,2,0,Emeri,3,L.,342214,0,0714416007
+first_name,middle_name,last_name,national_id,gender,marital_status,household_relation,residence_area,telephone_number,address
+Alice,Akeno,Tya,3454364,1,1,1,0,711516003,
+Clement,Echoto,Peter,6785678,2,1,1,0,711016005,
+James,,Mucheni,686786,2,1,1,0,721516607,
+David,Enyaman,Ewoton,7686587,2,2,0,0,710516044,
+Peter,L.,Emeri,342214,2,3,0,0,714416007,
