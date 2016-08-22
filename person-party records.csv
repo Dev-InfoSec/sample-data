@@ -1,6 +1,6 @@
-first_name,middle_name,last_name,national_id,gender,marital_status,household_relation,telephone_number,address,residence_area
-Alice,Akeno,Tya,3454364,1,1,2,711516003,,
-Clement,Echoto,Peter,6785678,2,1,1,711016005,,
-James,,Mucheni,686786,2,1,1,721516607,,
-David,Enyaman,Ewoton,7686587,2,2,1,710516044,,
-Peter,L.,Emeri,342214,2,3,1,714416007,,
+first_name,middle_name,last_name,national_id,gender,marital_status,household_relation,telephone_number,address
+Alice,Akeno,Tya,3454364,1,1,2,711516003,Nairobi
+Clement,Echoto,Peter,6785678,2,1,1,711016005,Nairobi
+James,,Mucheni,686786,2,1,1,721516607,Nairobi
+David,Enyaman,Ewoton,7686587,2,2,1,710516044,Nairobi
+Peter,L.,Emeri,342214,2,3,1,714416007,Nairobi
